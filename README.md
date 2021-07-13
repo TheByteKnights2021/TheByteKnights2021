@@ -8,11 +8,11 @@ different cocerculum activities which provides fun, creation,of new ideas and th
 Gmail-: byteknights.mms@gmail.com
 <br><br>
 <a href="https://www.instagram.com/thebyteknights">
-    <img src="https://thebyteknights.netlify.app/static/media/insta.0b1e5d05.svg" alt="instagram" height="30px" style="margin-right: 15px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LT6pno8qqYybriFMApff2wHaHW%26pid%3DApi&f=1" alt="instagram" height="30px" style="margin-right: 15px;">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100069116769192">
-    <img src="https://thebyteknights.netlify.app/static/media/fb.7900335b.svg" alt="instagram" height="30px" style="margin-right: 20px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aYVbqEFb2M-SWsBh_LafIQHaHa%26pid%3DApi&f=1" alt="instagram" height="30px" style="margin-right: 20px;">
 </a>
 <a href="https://www.youtube.com/channel/UCqDxCutv0nzcx0uZrFM76lA">
-    <img src="https://thebyteknights.netlify.app/static/media/yt.c2a0f656.svg" alt="instagram" height="30px" style="margin-right: 20px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1hX8tUyNC8XTZ8u6BLuGEAHaHa%26pid%3DApi&f=1" alt="instagram" height="30px" style="margin-right: 20px;">
 </a>
